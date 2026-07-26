@@ -1,7 +1,7 @@
 <!-- <a href="https://discord.com/users/785878811085766687"><img align="right" src="https://lanyard.cnrad.dev/api/785878811085766687?theme=light&bg=00000000&idleMessage=%EC%95%84%EB%AC%B4%EA%B2%83%EB%8F%84%20%EC%95%88%ED%95%98%EA%B3%A0%20%EC%9E%88%EC%96%B4%EC%9A%94!&showDisplayName=true" width="300px" /></a> -->
 <a href="https://discord.ivl.is/"><animated-image data-catalyst="" style="float: right; margin-top: 30px;"><img align="right" src="https://discord.ivl.is/widget/music/785878811085766687?horizontal=1&hideControls=1" width="360px" style="display: inline-block; margin-top: 30px;" data-target="animated-image.originalImage"></animated-image></a>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=850&size=60&duration=2000&pause=99999&color=000000&vCenter=true&width=480&height=80&lines=SangGwon+Lee" alt="SangGwon Lee" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=850&size=60&duration=2000&pause=99999&color=000000&vCenter=true&width=460&height=80&lines=SangGwon+Lee" alt="SangGwon Lee" />
 
 <br clear="right"/>
 
