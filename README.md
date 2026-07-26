@@ -8,7 +8,7 @@
 <a href="#" style="cursor:default"><img src="./profile-3d-contrib/profile-green-animate.svg" width="500px" align="right"/></a>
 
 <p align="center">
-<img src="https://discord.ivl.is/widget/dev-language/card?name=%E2%A0%80&stack=c%2Ccpp%2Cjava%2Ckotlin%2Cpython%2Cjavascript%2Creact%2Cspring%2Cdjango%2Cmysql%2Cmongodb%2Cpostgresql%2Cnumpy%2Cpandas%2Cscipy%2Cscikitlearn%2Cjupyter%2Cpytorch%2Ctensorflow%2Ckeras%2Chuggingface%2Canaconda%2Cselenium%2Cpostman%2Cgit%2Clinux%2Cdocker&bg=%23FFFFFF&bgOpacity=100&text=%23000000&textOpacity=100&accent=%23aa86fe&hideCount=1&fontScale=100&stackTop=0&stackRight=0&stackBottom=0&stackLeft=0" width="500" alt="Developer Stack">
+  <img src="https://discord.ivl.is/widget/dev-language/card?name=%E2%A0%80&stack=c%2Ccpp%2Cjava%2Ckotlin%2Cpython%2Cjavascript%2Creact%2Cspring%2Cdjango%2Cmysql%2Cmongodb%2Cpostgresql%2Cnumpy%2Cpandas%2Cscipy%2Cscikitlearn%2Cjupyter%2Cpytorch%2Ctensorflow%2Ckeras%2Chuggingface%2Canaconda%2Cgit%2Clinux%2Cdocker%2Cselenium%2Cpostman&bg=%23FFFFFF&bgOpacity=100&text=%23000000&textOpacity=100&accent=%23aa86fe&hideCount=1&fontScale=100&stackTop=0&stackRight=0&stackBottom=0&stackLeft=0" width="480" alt="Developer Stack">
 </p>
 
 <!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
