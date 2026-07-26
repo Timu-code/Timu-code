@@ -7,7 +7,11 @@
 
 <a href="#" style="cursor:default"><img src="./profile-3d-contrib/profile-green-animate.svg" width="500px" align="right"/></a>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+<img src="https://discord.ivl.is/widget/dev-language/card?name=%E2%A0%80&stack=c%2Ccpp%2Cjava%2Ckotlin%2Cpython%2Cjavascript%2Creact%2Cspring%2Cdjango%2Cmysql%2Cmongodb%2Cpostgresql%2Cnumpy%2Cpandas%2Cscipy%2Cscikitlearn%2Cjupyter%2Cpytorch%2Ctensorflow%2Ckeras%2Chuggingface%2Canaconda%2Cselenium%2Cpostman%2Cgit%2Clinux%2Cdocker&bg=%23FFFFFF&bgOpacity=100&text=%23000000&textOpacity=100&accent=%23aa86fe&hideCount=1&fontScale=100&stackTop=0&stackRight=0&stackBottom=0&stackLeft=0" width="500" alt="Developer Stack">
+</p>
+
+<!-- <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
   <b>📚 Languages 📚</b><br>
@@ -42,7 +46,7 @@
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white">
   <a href="https://github.com/stu0430"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white">
-</p>
+</p> -->
 
 <!-- <h3 align="center">🏆 Algorithm Solving 🏆</h3>
 <p align="center">
